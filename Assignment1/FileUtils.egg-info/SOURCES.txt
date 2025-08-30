@@ -1,0 +1,7 @@
+setup.py
+FileUtils/FileUtils_Leatherman.py
+FileUtils/__init__.py
+FileUtils.egg-info/PKG-INFO
+FileUtils.egg-info/SOURCES.txt
+FileUtils.egg-info/dependency_links.txt
+FileUtils.egg-info/top_level.txt
